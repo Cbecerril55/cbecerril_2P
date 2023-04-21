@@ -1,0 +1,19 @@
+{
+  "name": "parcial2",
+  "version": "1.0.0",
+  "description": "Parcial2TC",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cbecerril55/cbecerril_2P.git"
+  },
+  "author": "Carlos Becerril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cbecerril55/cbecerril_2P/issues"
+  },
+  "homepage": "https://github.com/Cbecerril55/cbecerril_2P#readme"
+}
